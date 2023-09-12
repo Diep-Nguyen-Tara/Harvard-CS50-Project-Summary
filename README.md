@@ -18,7 +18,7 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-computer language 1
+computer language 
 LL
 LL
 LLM
