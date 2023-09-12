@@ -18,7 +18,6 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-
 computer la
 LL1 
 mod
