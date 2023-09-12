@@ -22,7 +22,7 @@ Week 12 - Cybersecurity
 computer language 
 L
 L
-LL
+L
 model
 
 LL1 mode
