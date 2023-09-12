@@ -19,8 +19,7 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 
-computer language 
-
+computer langua
 
 LL1 mod
 model 2
