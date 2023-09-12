@@ -24,7 +24,7 @@ LL2
 LLM3
 
 model 5
-LL
+L
 LL1 model 1
 model 2
 model 
