@@ -21,7 +21,7 @@ Week 12 - Cybersecurity
 computer language 
 L
 LL
-LLM
+LL
 
 model
 
