@@ -19,7 +19,7 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 computer language 1
-LLM
+LL
 LL
 LLM
 
