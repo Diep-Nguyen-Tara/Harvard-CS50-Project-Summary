@@ -22,7 +22,6 @@ computer language
 L
 LL
 LL
-
 model
 
 LL1 mode
