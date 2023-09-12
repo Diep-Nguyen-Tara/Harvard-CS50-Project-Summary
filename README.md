@@ -22,5 +22,5 @@ Week 12 - Cybersecurity
 computer lan
 LL1 
 mod
-mo
+m
 mod
