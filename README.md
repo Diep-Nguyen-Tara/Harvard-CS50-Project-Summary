@@ -21,8 +21,6 @@ Week 12 - Cybersecurity
 
 computer language 
 
-L
-L
 
 LL1 mod
 model 2
