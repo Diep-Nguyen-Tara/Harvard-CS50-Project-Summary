@@ -19,7 +19,7 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 
-computer lang
+computer lan
 LL1 mod
 mode
 model 
