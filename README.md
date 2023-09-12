@@ -25,7 +25,7 @@ L
 L
 model
 
-LL1 mode
+LL1 mod
 model 2
 model 
 model
