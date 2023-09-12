@@ -22,4 +22,4 @@ computer la
 LL1 
 mod
 m
-mo
+m
