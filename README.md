@@ -24,7 +24,7 @@ LL
 LLM
 
 model
-L
+
 LL1 mode
 model 2
 model 
