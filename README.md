@@ -21,5 +21,5 @@ Week 12 - Cybersecurity
 
 LLM 
 LLM2
-LLM
+LL
 L
