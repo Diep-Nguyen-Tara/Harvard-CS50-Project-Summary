@@ -20,7 +20,7 @@ Week 12 - Cybersecurity
 
 
 computer lan
-LL1 mod
+LL1 mo
 mode
 model 
 mode
