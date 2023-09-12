@@ -23,7 +23,7 @@ computer language
 
 L
 L
-mode
+mo
 LL1 mod
 model 2
 model 
