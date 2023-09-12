@@ -23,4 +23,4 @@ computer lan
 LL1 mo
 mode
 model 
-mode
+mod
