@@ -24,3 +24,4 @@ Abstraction
 Algorithms
 Running times
 Scratch
+Functions
