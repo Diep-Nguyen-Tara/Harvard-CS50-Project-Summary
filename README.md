@@ -23,7 +23,4 @@ Boolean expression
 Loops
 Events
 Threads
-Variables
-Return values
-Arguments
-Scratch
+
