@@ -28,3 +28,4 @@ Unary
 Binary
 Decimal
 Inputs
+Outputs
