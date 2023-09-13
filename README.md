@@ -30,4 +30,5 @@ Decimal
 ASCII
 Unicode
 RGB
-Ab
+Abstraction
+Algorithms
