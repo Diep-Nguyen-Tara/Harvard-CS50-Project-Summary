@@ -25,3 +25,4 @@ Inputs
 Outputs
 Representation
 Unary
+Binary
