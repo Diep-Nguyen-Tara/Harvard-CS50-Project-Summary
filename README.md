@@ -26,3 +26,8 @@ Outputs
 Representation
 Unary
 Binary
+Decimal
+ASCII
+Unicode
+RGB
+Ab
