@@ -26,4 +26,5 @@ Running times
 Scratch
 Functions
 Arguments
-Reurn values
+Return values
+Variables
