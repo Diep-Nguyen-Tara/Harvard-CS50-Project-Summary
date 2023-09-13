@@ -23,3 +23,4 @@ GB
 Abstraction
 Algorithms
 Running times
+Scratch
