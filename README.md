@@ -18,17 +18,7 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-Computer science
-Computational Thinking
-Problem Solving
-Inputs
-Outputs
-Representation
-Unary
-Binary
-Decimal
-ASCII
-Unicode
-RGB
+
+GB
 Abstraction
 Algorithms
