@@ -24,9 +24,4 @@ Loops
 Events
 Threads
 Algorithms
-Unary
-Binary
-Decimal
-Inputs
-Outputs
-ASCII
+
