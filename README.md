@@ -25,3 +25,4 @@ Events
 Threads
 Variables
 Return values
+Arguments
