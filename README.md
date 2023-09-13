@@ -23,4 +23,4 @@ Boolean expression
 Loops
 Events
 Threads
-
+Algorithms
