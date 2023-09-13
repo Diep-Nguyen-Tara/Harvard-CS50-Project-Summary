@@ -29,3 +29,4 @@ Binary
 Decimal
 Inputs
 Outputs
+ASCII
