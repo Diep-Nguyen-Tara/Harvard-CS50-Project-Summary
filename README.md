@@ -23,3 +23,4 @@ Boolean expression
 Loops
 Events
 Threads
+Variables
