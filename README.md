@@ -19,11 +19,4 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 
-language model 1
-LLM2
-LLM3
-LLM4
-LLM5
-LLM6
-LLM7
-LLM8
+
