@@ -19,9 +19,4 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 
-Boolean expression
-Loops
-Events
-Threads
-Algorithms
 
