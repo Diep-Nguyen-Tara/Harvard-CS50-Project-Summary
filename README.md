@@ -25,3 +25,4 @@ Algorithms
 Running times
 Scratch
 Functions
+Arguments
