@@ -26,3 +26,4 @@ Threads
 Algorithms
 Unary
 Binary
+Decimal
