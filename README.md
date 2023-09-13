@@ -27,3 +27,4 @@ Algorithms
 Unary
 Binary
 Decimal
+Inputs
