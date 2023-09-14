@@ -23,3 +23,5 @@ Arguments
 represenation
 unary
 binary
+decimal
+ASCII
