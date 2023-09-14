@@ -19,12 +19,6 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 
-Abstraction
-Algorithms
-Running time
-Pseudo code
-Scratch
-Functions
 Arguments
 Return values
 Variables
