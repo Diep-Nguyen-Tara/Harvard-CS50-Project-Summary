@@ -21,6 +21,3 @@ Week 12 - Cybersecurity
 Running times
 Pseudocode
 Scratch
-Functions
-Arguments
-Return values
