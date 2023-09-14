@@ -26,3 +26,5 @@ binary
 decimal
 ASCII
 Unicode
+RGB
+Abstraction
