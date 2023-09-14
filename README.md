@@ -22,13 +22,4 @@ Week 12 - Cybersecurity
 Arguments
 
 threads
-events
 unary
-binary
-decimal
-ASCII
-Unicode
-RGB
-Abstraction
-Algorythms
-Running times
