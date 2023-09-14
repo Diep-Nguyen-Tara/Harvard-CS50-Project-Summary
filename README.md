@@ -26,3 +26,4 @@ events
 unary
 binary
 decimal
+ASCII
