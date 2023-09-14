@@ -21,3 +21,4 @@ Week 12 - Cybersecurity
 Binary
 Decimal
 ASCII
+Unicode
