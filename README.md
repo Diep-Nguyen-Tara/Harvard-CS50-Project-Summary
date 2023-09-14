@@ -20,3 +20,5 @@ Week 12 - Cybersecurity
 
 Inputs
 Outputs
+Unary
+Binary
