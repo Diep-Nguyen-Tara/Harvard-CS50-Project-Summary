@@ -22,3 +22,4 @@ Binary
 Decimal
 ASCII
 Unicode
+RGB
