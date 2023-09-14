@@ -31,3 +31,4 @@ outputs
 representation
 unary
 binary
+decimal
