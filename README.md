@@ -27,3 +27,4 @@ computer science
 computational thinking
 problem solving
 inputs
+outputs
