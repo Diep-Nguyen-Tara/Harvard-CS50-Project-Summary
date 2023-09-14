@@ -20,12 +20,4 @@ Week 12 - Cybersecurity
 
 
 Arguments
-Return values
-Variables
-Boolean expressions
-Conditionals
-Loops
-Events
-Threads
-inputs
-outputs
+
