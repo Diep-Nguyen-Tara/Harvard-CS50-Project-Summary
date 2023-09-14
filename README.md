@@ -23,3 +23,4 @@ Computer Thinking
 Problem Solving
 Inputs
 Outputs
+Unary
