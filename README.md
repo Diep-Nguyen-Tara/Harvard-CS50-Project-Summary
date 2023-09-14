@@ -26,3 +26,4 @@ Algorithms
 Running times
 Pseudocode
 Scratch
+Functions
