@@ -27,3 +27,4 @@ ASCII
 Unicode
 RGB
 Abstraction
+Running times
