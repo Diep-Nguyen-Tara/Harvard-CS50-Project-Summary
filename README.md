@@ -22,3 +22,5 @@ Unary
 Bianary
 Decimal
 ASCII
+Unicode
+RGB
