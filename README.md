@@ -24,3 +24,4 @@ Problem Solving
 Inputs
 Outputs
 Unary
+Bianary
