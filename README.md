@@ -20,3 +20,4 @@ Week 12 - Cybersecurity
 
 Computer Science
 Computational Thinking
+Problem solving
