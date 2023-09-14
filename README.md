@@ -24,3 +24,4 @@ Running times
 Pseudocode
 Scratch
 Functions
+arguments
