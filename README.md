@@ -23,3 +23,4 @@ Outputs
 Unary
 Binary
 zDecimal
+ASCII
