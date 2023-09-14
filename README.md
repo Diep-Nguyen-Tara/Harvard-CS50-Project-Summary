@@ -26,3 +26,4 @@ Scratch
 Functions
 arguments
 Return values
+Variables
