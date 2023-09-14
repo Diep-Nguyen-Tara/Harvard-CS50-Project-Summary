@@ -25,3 +25,4 @@ Abstraction
 Algorithms
 Running times
 Pseudocode
+Scratch
