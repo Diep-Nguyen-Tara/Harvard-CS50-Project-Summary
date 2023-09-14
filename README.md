@@ -25,3 +25,4 @@ Unicode
 RGB
 Abstraction
 Algorithms
+Running time
