@@ -23,3 +23,5 @@ Arguments
 
 threads
 unary
+computer science
+computational thinking
