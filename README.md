@@ -27,3 +27,5 @@ Conditionals
 Loops
 Events
 Threads
+inputs
+outputs
