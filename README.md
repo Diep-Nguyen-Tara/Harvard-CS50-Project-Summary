@@ -28,3 +28,4 @@ binary
 decimal
 ASCII
 Unicode
+RGB
