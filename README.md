@@ -25,3 +25,4 @@ Running time
 Pseudo code
 Scratch
 Functions
+Arguments
