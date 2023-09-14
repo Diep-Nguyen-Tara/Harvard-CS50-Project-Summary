@@ -24,3 +24,4 @@ Decimal
 ASCII
 Unicode
 RGB
+Abstraction
