@@ -18,10 +18,6 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-Functions
-arguments
-Return values
-Variables
 Boolean expressions
 Conditionals
 Loops
