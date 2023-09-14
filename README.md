@@ -26,3 +26,4 @@ zDecimal
 ASCII
 Unicode
 RGB
+Abstraction
