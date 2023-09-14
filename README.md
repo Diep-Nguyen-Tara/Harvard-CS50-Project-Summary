@@ -22,3 +22,4 @@ Inputs
 Outputs
 Unary
 Binary
+zDecimal
