@@ -24,3 +24,4 @@ Unary
 Binary
 zDecimal
 ASCII
+Unicode
