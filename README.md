@@ -26,3 +26,4 @@ RGB
 Abstraction
 Algorithms
 Running time
+Pseudo code
