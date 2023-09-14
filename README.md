@@ -24,3 +24,4 @@ Arguments
 threads
 events
 unary
+binary
