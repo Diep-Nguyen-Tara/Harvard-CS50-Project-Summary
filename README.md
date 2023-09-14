@@ -28,3 +28,4 @@ ASCII
 Unicode
 RGB
 Abstraction
+Algorithms
