@@ -25,3 +25,4 @@ Inputs
 Outputs
 Unary
 Bianary
+Decimal
