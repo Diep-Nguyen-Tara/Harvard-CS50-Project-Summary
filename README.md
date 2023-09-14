@@ -25,3 +25,4 @@ Binary
 zDecimal
 ASCII
 Unicode
+RGB
