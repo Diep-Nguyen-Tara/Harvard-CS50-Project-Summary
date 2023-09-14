@@ -25,3 +25,4 @@ threads
 events
 unary
 binary
+decimal
