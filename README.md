@@ -29,3 +29,4 @@ decimal
 ASCII
 Unicode
 RGB
+Abstraction
