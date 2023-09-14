@@ -29,3 +29,5 @@ problem solving
 inputs
 outputs
 representation
+unary
+binary
