@@ -26,3 +26,4 @@ Outputs
 Unary
 Bianary
 Decimal
+ASCII
