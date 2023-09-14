@@ -18,10 +18,7 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-ASCII
-Unicode
-RGB
-Abstraction
+
 Algorithms
 Running times
 Pseudocode
