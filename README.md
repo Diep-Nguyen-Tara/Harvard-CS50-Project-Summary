@@ -19,3 +19,4 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 Computer Science
+Computational Thinking
