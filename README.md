@@ -27,3 +27,4 @@ unary
 binary
 decimal
 ASCII
+Unicode
