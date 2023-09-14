@@ -18,11 +18,6 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-Computer Science
-Computer Thinking
-Problem Solving
-Inputs
-Outputs
 Unary
 Bianary
 Decimal
