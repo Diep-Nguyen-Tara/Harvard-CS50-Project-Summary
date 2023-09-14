@@ -18,13 +18,10 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-Inputs
-Outputs
-Unary
-Binary
-zDecimal
+
 ASCII
 Unicode
 RGB
 Abstraction
 Running times
+Pseudocode
