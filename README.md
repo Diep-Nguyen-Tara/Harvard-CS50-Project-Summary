@@ -25,3 +25,5 @@ threads
 unary
 computer science
 computational thinking
+problem solving
+inputs
