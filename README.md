@@ -25,3 +25,4 @@ RGB
 Abstraction
 Running times
 Pseudocode
+Scratch
