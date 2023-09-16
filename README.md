@@ -22,3 +22,4 @@ Algorithms
 Memory
 Data structure
 Python
+SQL
