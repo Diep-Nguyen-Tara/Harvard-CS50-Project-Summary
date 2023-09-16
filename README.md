@@ -20,3 +20,4 @@ Week 12 - Cybersecurity
 
 Algorithms
 Memory
+Data structure
