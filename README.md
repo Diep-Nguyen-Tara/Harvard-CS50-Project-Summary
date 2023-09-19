@@ -31,4 +31,3 @@ C++
 Javascript
 SQL
 HTML
-C+
