@@ -29,5 +29,3 @@ Java
 C
 C++
 Javascript
-SQL
-HTML
