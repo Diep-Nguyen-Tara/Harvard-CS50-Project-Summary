@@ -28,3 +28,4 @@ HTML
 Java
 C
 C++
+Javascript
