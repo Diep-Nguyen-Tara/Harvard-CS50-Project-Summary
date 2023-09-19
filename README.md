@@ -21,7 +21,6 @@ Week 12 - Cybersecurity
 Data structure
 Stack: FIFO
 Queue: first in last out
-Linked list
 SQL
 HTML
 Java
