@@ -19,7 +19,7 @@ Week 11 - Emoji
 Week 12 - Cybersecurity
 
 Data structure
-Stack
+Stack: FIFO
 Queue
 List
 Linked list
