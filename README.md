@@ -23,3 +23,4 @@ Stack: FIFO
 Queue: first in last out
 List
 Linked list
+SQL
