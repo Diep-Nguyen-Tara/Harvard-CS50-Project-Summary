@@ -32,3 +32,4 @@ Javascript
 SQL
 HTML
 C+
+Pointer
