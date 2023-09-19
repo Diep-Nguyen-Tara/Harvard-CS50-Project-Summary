@@ -10,7 +10,7 @@ Week 2 - C
 Week 3 - Arrays
 Week 4 - Algorithms
 Week 5 - Memory
-Week 6 - Data Structures
+Week 6 - Data Structures: hash table
 Week 7 - Python
 Week 8 - SQL
 Week 9 - HTML, CSS, JavaScript
