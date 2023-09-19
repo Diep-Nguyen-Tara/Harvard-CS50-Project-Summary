@@ -20,6 +20,6 @@ Week 12 - Cybersecurity
 
 Data structure
 Stack: FIFO
-Queue
+Queue: first in last out
 List
 Linked list
