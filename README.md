@@ -30,3 +30,4 @@ Javascript
 Memory
 Pointer
 List
+Linked List
