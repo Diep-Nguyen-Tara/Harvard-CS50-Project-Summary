@@ -27,6 +27,4 @@ Java
 C
 C++
 Javascript
-Pointer
-List
-Linked List
+
