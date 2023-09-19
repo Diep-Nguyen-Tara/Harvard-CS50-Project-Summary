@@ -26,3 +26,4 @@ Linked list
 SQL
 HTML
 Java
+C++
