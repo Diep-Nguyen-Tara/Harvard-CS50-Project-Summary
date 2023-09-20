@@ -16,6 +16,6 @@ Week 8 - SQL.
 Week 9 - HTML, CSS, JavaScript.
 Week 10 - Flask.
 Week 11 - Emoji.
-Week 12 - Cybersecurity
+Week 12 - Cybersecurity.
 
 
