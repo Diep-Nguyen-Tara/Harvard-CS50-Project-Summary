@@ -11,7 +11,7 @@ Week 3 - Arrays.
 Week 4 - Algorithms.
 Week 5 - Memory.
 Week 6 - Data Structures: Queue, Stack, Linked list, Hash table, Trie.
-Week 7 - Python
+Week 7 - Python.
 Week 8 - SQL
 Week 9 - HTML, CSS, JavaScript
 Week 10 - Flask
