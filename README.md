@@ -10,7 +10,7 @@ Week 2 - C
 Week 3 - Arrays
 Week 4 - Algorithms
 Week 5 - Memory
-Week 6 - Data Structures: linked list, hash table
+Week 6 - Data Structures: Queue, Stack, Linked list, Hash table, Trie
 Week 7 - Python
 Week 8 - SQL
 Week 9 - HTML, CSS, JavaScript
@@ -18,16 +18,4 @@ Week 10 - Flask
 Week 11 - Emoji
 Week 12 - Cybersecurity
 
-Data structure
-Stack: FIFO
-Queue: first in last out
-SQL
-HTML
-Java
-C
-C++
-Javascript
-Memory
-Pointer
-List
-Linked List
+
