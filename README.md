@@ -23,3 +23,4 @@ Unicode
 Hash table
 Singly linked list
 Doubly linked list
+Tries
