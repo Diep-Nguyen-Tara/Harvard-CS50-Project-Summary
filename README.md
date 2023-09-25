@@ -26,7 +26,3 @@ Doubly linked list
 Tries
 Python
 Hash table
-SQL
-HTML
-CSS
-Javascript
