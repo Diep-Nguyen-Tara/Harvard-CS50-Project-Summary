@@ -29,3 +29,4 @@ Hash table
 SQL
 HTML
 CSS
+Javascript
