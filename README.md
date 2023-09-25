@@ -24,5 +24,3 @@ Hash table
 Singly linked list
 Doubly linked list
 Tries
-Python
-Hash table
