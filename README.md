@@ -20,3 +20,4 @@ Week 12 - Cybersecurity.
 
 Pointer
 Hash table
+Linked list
