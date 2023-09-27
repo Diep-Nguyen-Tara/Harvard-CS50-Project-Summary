@@ -20,4 +20,4 @@ Week 12 - Cybersecurity.
 
 Loop
 Function
-Flo
+Floating 
