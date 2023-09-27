@@ -21,3 +21,4 @@ Week 12 - Cybersecurity.
 Loop
 Function
 Floating point imprecision
+Integer 
