@@ -23,3 +23,5 @@ Queue
 Variables
 Python
 Call stacks
+Single Linked List
+Double Linked List
