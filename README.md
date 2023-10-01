@@ -23,3 +23,4 @@ Events
 Threads
 Return values
 Arguments
+Boolean
