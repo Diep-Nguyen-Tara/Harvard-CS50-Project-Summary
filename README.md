@@ -22,3 +22,4 @@ Inputs
 Strings
 Dot notation
 Loops
+Dictionaries
