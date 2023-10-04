@@ -20,3 +20,4 @@ Week 12 - Cybersecurity.
 
 loops
 Boolean
+inputs
