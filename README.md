@@ -23,3 +23,4 @@ strings
 dot notation
 Loops
 Dictionaries
+File reading
