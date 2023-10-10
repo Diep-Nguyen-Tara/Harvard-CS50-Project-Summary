@@ -25,3 +25,4 @@ Loops
 Dictionaries
 Libraries
 File reading
+Floating point imprecision
