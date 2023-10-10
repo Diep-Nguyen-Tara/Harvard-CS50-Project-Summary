@@ -22,3 +22,4 @@ Python
 Strings
 Dot notation
 Loops
+Dictionaries
