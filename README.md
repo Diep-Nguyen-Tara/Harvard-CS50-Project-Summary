@@ -18,11 +18,3 @@ Week 10 - Flask.
 Week 11 - Emoji.
 Week 12 - Cybersecurity.
 
-Python
-Strings
-Dot notation
-Loops
-Dictionaries
-Libraries
-File reading
-Floating point imprecision
