@@ -24,3 +24,4 @@ dot notation
 Loops
 Dictionaries
 File reading
+Writing
