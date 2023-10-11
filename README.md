@@ -21,6 +21,7 @@ Week 7 - Python 3 (Strings, Dot notation, Loops, Tuples, Dictionaries, Libraries
 Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionaries, Functions, Objects, Style.
 
 Week 8 - SQL.
+
 Week 9 - HTML, CSS, JavaScript.
 Week 10 - Flask.
 Week 11 - Emoji.
