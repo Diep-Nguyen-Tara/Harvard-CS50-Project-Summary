@@ -21,3 +21,4 @@ Week 12 - Cybersecurity.
 Loops
 Python
 Strings
+Dot notation
