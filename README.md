@@ -14,6 +14,7 @@ Week 3 - Arrays.
 Week 4 - Algorithms.
 
 Week 5 - Memory (Hexadecimal, Pointer, Defining Custom Types, Dynamic Memory Allocation, Call Stacks, File Pointers).
+
 Week 6 - Data Structures (Queue, Stack, Singly-Linked list, Doubly-Linked List, Binary Search Tree, Hash table, Tries).
 
 Week 7 - Python 3 (Strings, Dot notation, Loops, Tuples, Dictionaries, Libraries, File reading, Writing; other topics: Floating point imprecision, Integer Overflow).
