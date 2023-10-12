@@ -1,5 +1,5 @@
 # Harvard CS50 - Computer Science Projects
-All projects from the course Computer Science CS50 taught by Harvard University. 
+Hello, world! This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
 
 Topics include: Computer Science. Computational Thinking. Problem Solving: Inputs, Outputs. Representation: Unary, Binary, Decimal, ASCII, Unicode, RGB. Abstraction. Algorithms. Running Times. Pseudocode. Scratch: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops; Events; Threads.
 
