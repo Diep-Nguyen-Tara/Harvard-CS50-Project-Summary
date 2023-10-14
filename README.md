@@ -22,7 +22,7 @@ Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionari
 
 Week 8 - SQL Structured Query Language (Relational database, )
 CRUD: 
-      - Create
+        Create
       - Read
       - Update
       - Delete data
