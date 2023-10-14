@@ -27,6 +27,7 @@ CRUD functions:
       - to update data: UPDATE
       - to delete data: DELETE, DROP.
 Other functions: AVG, COUNT, DISTINCT, LOWER, MAX, MIN, UPPER,...
+WHERE, LIKE, ORDER BY, LIMIT, GROUP BY,...
 
 Week 9 - HTML, CSS, JavaScript.
 
