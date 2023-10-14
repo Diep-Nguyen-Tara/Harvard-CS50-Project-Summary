@@ -21,6 +21,11 @@ Week 7 - Python 3 (Strings, Dot notation, Loops, Tuples, Dictionaries, Libraries
 Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionaries, Functions, Objects, Style.
 
 Week 8 - SQL Structured Query Language (Relational database, )
+CRUD: 
+      Create
+      Read
+      Update
+      Delete data
 
 Week 9 - HTML, CSS, JavaScript.
 
