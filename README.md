@@ -20,7 +20,7 @@ Week 6 - Data Structures (Queue, Stack, Singly-Linked list, Doubly-Linked List, 
 Week 7 - Python 3 (Strings, Dot notation, Loops, Tuples, Dictionaries, Libraries, File reading, Writing; other topics: Floating point imprecision, Integer Overflow).
 Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionaries, Functions, Objects, Style.
 
-Week 8 - SQL (Relational database, )
+Week 8 - SQL Structured Query Language (Relational database, )
 
 Week 9 - HTML, CSS, JavaScript.
 
