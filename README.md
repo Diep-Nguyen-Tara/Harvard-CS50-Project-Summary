@@ -34,7 +34,8 @@ SELECT * FROM favorites;  (to select all).
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 DELETE FROM favorites WHERE problem = 'Tideman';
 
-IMDb = Internet Movie Database
+IMDb = Internet Movie Database.
+TSV = Tab Separated Value.
 
 Week 9 - HTML, CSS, JavaScript.
 
