@@ -30,6 +30,7 @@ Week 8 - SQL - Structured Query Language (Relational databases,...).
 BLOB(Binary large objects), INTEGER, NUMERIC(YYYY-MM-DD), REAL(float, decimal point with some number of digits thereafter), TEXT,...
 
 PRIMARY KEY column: the database will use that column as the unique identifier.
+Do FOREIGN KEY have to set the relationship? when you create the table, the programmer or the database administrator would create that relationship by using those keywords: primary key and foreign key that teaches the database what is related to what.
 
 CRUD functions:
 --
