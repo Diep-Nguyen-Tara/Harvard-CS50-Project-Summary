@@ -44,13 +44,15 @@ Other functions:
 AVG, COUNT, DISTINCT, LOWER, MAX, MIN, UPPER,...
 WHERE, LIKE, ORDER BY, LIMIT, GROUP BY.
 
-Example of functions:
+Example of functions & queries:
 --
 SELECT * FROM favorites;  (to select all).
 
 SELECT COUNT(show_id) FROM genres WHERE genre = 'Comedy';
 
 SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') ORDER BY title LIMIT 10;
+
+SELECT title FROM shows WHERE id IN (SELECT show_id FROM stars WHERE person_id = (SELECT id FROM people WHERE name = 'Steve Carell'));
 
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 
