@@ -4,6 +4,7 @@ Hello, world! This is CS50, Harvard University's introduction to the intellectua
 Topics include: Computer Science. Computational Thinking. Problem Solving: Inputs, Outputs. Representation: Unary, Binary, Decimal, ASCII, Unicode, RGB. Abstraction. Algorithms. Running Times. Pseudocode. Scratch: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops; Events; Threads.
 
 This is a 12-week course:
+--
 
 Week 1 - Scratch.
 
