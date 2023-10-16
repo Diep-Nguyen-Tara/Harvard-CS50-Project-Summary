@@ -53,4 +53,6 @@ Week 11 - Emoji.
 
 Week 12 - Cybersecurity.
 
+*Notes:
 
+Ctrl+C to interrupt computer
