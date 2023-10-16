@@ -40,7 +40,7 @@ WHERE, LIKE, ORDER BY, LIMIT, GROUP BY.
 Example of functions:
 SELECT * FROM favorites;  (to select all).
 SELECT COUNT(show_id) FROM genres WHERE genre = 'Comedy';
-SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') LIMIT 10;
+SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') ORDER BY title LIMIT 10;
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 DELETE FROM favorites WHERE problem = 'Tideman';
 
