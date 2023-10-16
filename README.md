@@ -30,7 +30,9 @@ CRUD functions:
 WHERE, LIKE, ORDER BY, LIMIT, GROUP BY,...
 
 Example of functions:
-SELECT * FROM favorites;
+SELECT * FROM favorites;  (to select all).
+UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
+DELETE FROM favorites WHERE problem = 'Tideman';
 
 Week 9 - HTML, CSS, JavaScript.
 
