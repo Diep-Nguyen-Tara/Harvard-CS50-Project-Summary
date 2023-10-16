@@ -21,15 +21,21 @@ Week 7 - Python 3 (Strings, Dot notation, Loops, Tuples, Dictionaries, Libraries
 Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionaries, Functions, Objects, Style.
 
 Week 8 - SQL Structured Query Language (Relational databases,...).
-CRUD functions: 
-        to create data: CREATE, INSERT
-      - to read data: SELECT
-      - to update data: UPDATE
-      - to delete data: DELETE, DROP.
- Other functions: AVG, COUNT, DISTINCT, LOWER, MAX, MIN, UPPER,...
-WHERE, LIKE, ORDER BY, LIMIT, GROUP BY.
 
-5 Data types in SQLite: BLOB(Binary large objects), INTEGER, NUMERIC(YYYY-MM-DD), REAL(float, decimal point with some number of digits thereafter), TEXT,...
+5 Data types in SQLite: 
+BLOB(Binary large objects), INTEGER, NUMERIC(YYYY-MM-DD), REAL(float, decimal point with some number of digits thereafter), TEXT,...
+
+PRIMARY KEY column: the database will use that column as the unique identifier.
+
+CRUD functions: 
+        to create data: CREATE, INSERT.
+        to read data: SELECT.
+        to update data: UPDATE.
+        to delete data: DELETE, DROP.
+ 
+Other functions: 
+AVG, COUNT, DISTINCT, LOWER, MAX, MIN, UPPER,...
+WHERE, LIKE, ORDER BY, LIMIT, GROUP BY.
 
 Example of functions:
 SELECT * FROM favorites;  (to select all).
