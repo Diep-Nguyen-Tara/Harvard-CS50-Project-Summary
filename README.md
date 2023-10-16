@@ -29,6 +29,9 @@ CRUD functions:
  Other functions: AVG, COUNT, DISTINCT, LOWER, MAX, MIN, UPPER,...
 WHERE, LIKE, ORDER BY, LIMIT, GROUP BY,...
 
+Example of functions:
+SELECT * FROM favorites;
+
 Week 9 - HTML, CSS, JavaScript.
 
 Week 10 - Flask.
