@@ -27,7 +27,9 @@ CRUD functions:
       - to update data: UPDATE
       - to delete data: DELETE, DROP.
  Other functions: AVG, COUNT, DISTINCT, LOWER, MAX, MIN, UPPER,...
-WHERE, LIKE, ORDER BY, LIMIT, GROUP BY,...
+WHERE, LIKE, ORDER BY, LIMIT, GROUP BY.
+
+5 Data types in SQL: BLOB(Binary large objects), INTEGER, NUMERIC(YYYY-MM-DD), REAL, TEXT,...
 
 Example of functions:
 SELECT * FROM favorites;  (to select all).
