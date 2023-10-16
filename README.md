@@ -23,12 +23,14 @@ Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionari
 
 Week 8 - SQL - Structured Query Language (Relational databases,...).
 
-5 Data types in SQLite: 
+5 Data types in SQLite:
+--
 BLOB(Binary large objects), INTEGER, NUMERIC(YYYY-MM-DD), REAL(float, decimal point with some number of digits thereafter), TEXT,...
 
 PRIMARY KEY column: the database will use that column as the unique identifier.
 
-CRUD functions: 
+CRUD functions:
+--
         to create data: CREATE, INSERT.
         to read data: SELECT.
         to update data: UPDATE.
@@ -63,5 +65,6 @@ Week 11 - Emoji.
 Week 12 - Cybersecurity.
 
 *Notes:
+--
 
 Ctrl+C to interrupt computer
