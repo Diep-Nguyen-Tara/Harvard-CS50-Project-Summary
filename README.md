@@ -48,6 +48,8 @@ Example of functions & queries:
 --
 SELECT * FROM favorites;  (to select all).
 
+SELECT * FROM people WHERE name LIKE 'Steve C%';
+
 SELECT COUNT(show_id) FROM genres WHERE genre = 'Comedy';
 
 SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') ORDER BY title LIMIT 10;
