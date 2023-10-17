@@ -54,6 +54,8 @@ SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'C
 
 SELECT title FROM shows WHERE id IN (SELECT show_id FROM stars WHERE person_id = (SELECT id FROM people WHERE name = 'Steve Carell'));
 
+SELECT * FROM shows JOIN ratings ON shows.id = ratings.show_id WHERE title = 'The Office';
+
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 
 DELETE FROM favorites WHERE problem = 'Tideman';
