@@ -64,6 +64,8 @@ UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in 
 
 DELETE FROM favorites WHERE problem = 'Tideman';
 
+CREATE INDEX title_index ON shows (title);
+
 IMDb = Internet Movie Database.
 TSV = Tab Separated Value.
 
