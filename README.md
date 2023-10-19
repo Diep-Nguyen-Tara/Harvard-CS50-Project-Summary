@@ -37,6 +37,8 @@ REAL(float, decimal point with some number of digits thereafter)
 
 TEXT.
 
+
+
 PRIMARY KEY: is the unique identifier & the unique ID inside of the table.
 
 FOREIGN KEY: is the reference to that primary key from another table, a separate table.
