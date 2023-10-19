@@ -27,10 +27,20 @@ Week 8 - SQL Structured Query Language (Relational databases,...). Potential pro
 
 5 Data types in SQLite:
 --
-BLOB(Binary large objects), INTEGER, NUMERIC(YYYY-MM-DD), REAL(float, decimal point with some number of digits thereafter), TEXT,...
+BLOB(Binary large objects)
+
+INTEGER
+
+NUMERIC(YYYY-MM-DD)
+
+REAL(float, decimal point with some number of digits thereafter)
+
+TEXT.
 
 PRIMARY KEY: is the unique identifier & the unique ID inside of the table.
+
 FOREIGN KEY: is the reference to that primary key from another table, a separate table.
+
 Do FOREIGN KEY have to set the relationship? when you create the table, the programmer or the database administrator would create that relationship by using those keywords: primary key and foreign key that teaches the database what is related to what.
 
 CRUD functions:
