@@ -103,3 +103,4 @@ Data structure
 SQL
 SQLite3
 Python
+CREATE TABLE
