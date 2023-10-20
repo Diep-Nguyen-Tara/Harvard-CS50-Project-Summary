@@ -93,4 +93,5 @@ FOREIGN KEY: is the reference to that primary key from another table, a separate
 
 Does FOREIGN KEY have to set the relationship? when you create the table, the programmer or the database administrator would create that relationship by using those keywords: primary key and foreign key that teaches the database what is related to what.
 
-PRIMARY KEY
+PRIMARY KEY house(id)
+
