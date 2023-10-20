@@ -97,3 +97,4 @@ PRIMARY KEY house(id)
 FOREIGN KEY student(id) as primary key 
 Relational database
 Data structures
+Ctrl+C
