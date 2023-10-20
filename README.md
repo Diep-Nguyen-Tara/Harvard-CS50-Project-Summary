@@ -96,4 +96,4 @@ Does FOREIGN KEY have to set the relationship? when you create the table, the pr
 PRIMARY KEY house(id)
 FOREIGN KEY student(id) as primary key 
 Relational database
-
+Data structures
