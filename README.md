@@ -80,6 +80,8 @@ SELECT COUNT(id) FROM genres where genres = 'gen_id';
 
 SELECT title from books where id IN (select ...);
 
+Update favorites SET language = 'C' WHERE LANGUAGE = 'C++';
+
 IMDb = Internet Movie Database.
 TSV = Tab Separated Value.
 
