@@ -74,6 +74,8 @@ CREATE INDEX title_index ON shows (title);
 @@@@@@
 DELETE FROM favorites WHERE problem = 'Tideman';
 
+SELECT * FROM favorites;
+
 IMDb = Internet Movie Database.
 TSV = Tab Separated Value.
 
