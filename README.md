@@ -76,6 +76,8 @@ DELETE FROM favorites WHERE problem = 'Tideman';
 
 SELECT * FROM favorites;
 
+SELECT COUNT(id) FROM genres where genres = 'gen_id';
+
 IMDb = Internet Movie Database.
 TSV = Tab Separated Value.
 
