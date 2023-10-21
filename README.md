@@ -71,17 +71,6 @@ DELETE FROM favorites WHERE problem = 'Tideman';
 
 CREATE INDEX title_index ON shows (title);
 
-@@@@@@
-DELETE FROM favorites WHERE problem = 'Tideman';
-
-SELECT * FROM favorites;
-
-SELECT COUNT(id) FROM genres where genres = 'gen_id';
-
-SELECT title from books where id IN (select ...);
-
-Update favorites SET language = 'C' WHERE LANGUAGE = 'C++';
-
 IMDb = Internet Movie Database.
 TSV = Tab Separated Value.
 
