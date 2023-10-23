@@ -72,7 +72,7 @@ DELETE FROM favorites WHERE problem = 'Tideman';
 CREATE INDEX title_index ON shows (title);
 
 DELETE FROm favorites WHERE problem = 'Tideman';
-UPDATE favorites SET language = 'C' WHERE
+UPDATE favorites SET language = 'C' WHERE language = 'C++';
 
 IMDb = Internet Movie Database.
 TSV = Tab Separated Value.
