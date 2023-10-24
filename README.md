@@ -37,7 +37,7 @@ SQLite is another platform.
 
 Many installations of SQL come with a GUI tool called phpMyAdmin which can be used to execute database queries in a more user-friendly way.
 
-5 Data types in SQLite:
+5 common Data types in SQLite:
 --
 BLOB(Binary large objects)
 
