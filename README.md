@@ -24,7 +24,7 @@ Week 7 - Python 3 (Strings, Dot notation, Loops, Tuples, Dictionaries, Libraries
 Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionaries, Functions, Objects, Style.
 
 Week 8 - SQL
----
+------
 Structured Query Language (Relational databases,...). Potential problems: race conditions, SQL injection attacks (little Bobby Tables).
 
 SQL is a programming language whose purpose is to query a database.
