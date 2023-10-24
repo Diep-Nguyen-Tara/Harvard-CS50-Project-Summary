@@ -72,7 +72,6 @@ JOIN assignments ON students.id = assignments.student_id
 JOIN houses ON houses.id = assignments.house_id;
 
 SELECT * FROM shows JOIN ratings ON shows.id = ratings.show_id WHERE title = 'The Office';
-SELECT * FROM shows JOIN ratings ON shows.id = ratings.show_id WHERE title = 'The Office';
 
 
 
