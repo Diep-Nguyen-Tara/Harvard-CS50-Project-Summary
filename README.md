@@ -63,7 +63,14 @@ Nested query:
 SELECT title FROM shows WHERE id IN (SELECT show_id FROM stars WHERE person_id = (SELECT id FROM people WHERE name = 'Steve Carell'));
 
 Join query:
-SELECT * FROM shows JOIN ratings ON shows.id = ratings.show_id WHERE title = 'The Office';
+SELECT * FROM shows 
+JOIN ratings ON shows.id = ratings.show_id 
+WHERE title = 'The Office';
+
+SELECT * FROM students 
+JOIN assignments ON students.id = assignments.student_id
+JOIN houses ON houses.id = assignments.house_id;
+
 SELECT * FROM shows JOIN ratings ON shows.id = ratings.show_id WHERE title = 'The Office';
 SELECT * FROM shows JOIN ratings ON shows.id = ratings.show_id WHERE title = 'The Office';
 SELECT * FROM shows JOIN ratings ON shows.id = ratings.show_id WHERE title = 'The Office';
