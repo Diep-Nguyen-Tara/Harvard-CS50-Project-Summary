@@ -71,10 +71,6 @@ SELECT * FROM students
 JOIN assignments ON students.id = assignments.student_id
 JOIN houses ON houses.id = assignments.house_id;
 
-SELECT * FROM shows
-JOIN ratings on shows.id = ratings.show_id
-WHERE title = 'The Office';
-
 
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 
