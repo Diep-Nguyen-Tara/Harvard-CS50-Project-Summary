@@ -23,7 +23,15 @@ Week 6 - Data Structures (Queue, Stack, Singly-Linked list, Doubly-Linked List, 
 Week 7 - Python 3 (Strings, Dot notation, Loops, Tuples, Dictionaries, Libraries, File reading, Writing; other topics: Floating point imprecision, Integer Overflow).
 Python syntax: Variables, Conditionals, Loops, Arrays, Lists, Tuples, Dictionaries, Functions, Objects, Style.
 
-Week 8 - SQL Structured Query Language (Relational databases,...). Potential problems: race conditions, SQL injection attacks (little Bobby Tables).
+Week 8 - SQL
+--
+Structured Query Language (Relational databases,...). Potential problems: race conditions, SQL injection attacks (little Bobby Tables).
+
+SQL is a programming language whose purpose is to query a database.
+
+MySQL is one open-source platform on which you can establish the type of relational database that SQL is most adept at working with.
+
+SQLite is another platform.
 
 5 Data types in SQLite:
 --
