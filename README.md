@@ -33,6 +33,8 @@ MySQL is one open-source platform on which you can establish the type of relatio
 
 SQLite is another platform.
 
+Many installations of SQL come with a GUI tool called phpMyAdmin which can be used to execute database queries in a more user-friendly way.
+
 5 Data types in SQLite:
 --
 BLOB(Binary large objects)
