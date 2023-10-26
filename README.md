@@ -71,6 +71,10 @@ SELECT COUNT(show_id) FROM genres WHERE genre = 'Comedy';
 
 SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') ORDER BY title LIMIT 10;
 
+SELECT title 
+FROM shows 
+WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') 
+
 Nested query:
 SELECT title FROM shows WHERE id IN (SELECT show_id FROM stars WHERE person_id = (SELECT id FROM people WHERE name = 'Steve Carell'));
 
