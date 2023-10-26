@@ -83,10 +83,6 @@ SELECT * FROM students
 JOIN assignments ON students.id = assignments.student_id
 JOIN houses ON houses.id = assignments.house_id;
 
-SELECT * FROM students
-
-
-
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 
 DELETE FROM favorites WHERE problem = 'Tideman';
