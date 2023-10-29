@@ -83,6 +83,20 @@ SELECT * FROM students
 JOIN assignments ON students.id = assignments.student_id
 JOIN houses ON houses.id = assignments.house_id;
 
+CREATE TABLE movies (
+                    id INTEGER,
+                    title TEXT NOT NULL,
+                    year NUMERIC,
+                    PRIMARY KEY(id)
+                );
+                
+CREATE TABLE stars (
+                movie_id INTEGER NOT NULL,
+                person_id INTEGER NOT NULL,
+                FOREIGN KEY(movie_id) REFERENCES movies(id),
+                FOREIGN KEY(person_id) REFERENCES people(id)
+            );
+            
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 
 DELETE FROM favorites WHERE problem = 'Tideman';
