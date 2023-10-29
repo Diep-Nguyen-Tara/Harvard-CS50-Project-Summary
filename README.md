@@ -96,7 +96,7 @@ CREATE TABLE stars (
                 FOREIGN KEY(movie_id) REFERENCES movies(id),
                 FOREIGN KEY(person_id) REFERENCES people(id)
             );
-            
+
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 
 DELETE FROM favorites WHERE problem = 'Tideman';
