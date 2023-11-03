@@ -68,7 +68,7 @@ SELECT * FROM favorites;  (to select all).
 SELECT * FROM people WHERE name LIKE 'Steve C%';
 
 
-SELECT * FROM people WHERE name LIKE 'Steve C%';
+
 
 SELECT COUNT(show_id) FROM genres WHERE genre = 'Comedy';
 
