@@ -73,7 +73,6 @@ SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'C
 
 SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') ORDER BY title LIMIT 10;
 
-SELECT title FROM shows WHERE id IN (SELECT show_id FROM genres WHERE genre = 'Comedy') ORDER BY title LIMIT 10;
 
 
 
