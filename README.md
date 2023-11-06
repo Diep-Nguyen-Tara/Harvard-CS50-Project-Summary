@@ -69,7 +69,7 @@ SELECT * FROM people WHERE name LIKE 'Steve C%';
 
 SELECT * FROM people WHERE name LIKE 'Steve C%';
 
-SELECT * FROM people WHERE name LIKE 'Steve C%';
+
 
 
 
