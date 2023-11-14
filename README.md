@@ -107,8 +107,12 @@ IMDb = Internet Movie Database.
 TSV = Tab Separated Value.
 
 Week 9 - HTML, CSS, JavaScript.
+--
+
+IP = Internet Protocols 
 
 Week 10 - Flask.
+--
 
 Week 11 - Emoji.
 
