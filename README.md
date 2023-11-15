@@ -117,6 +117,8 @@ DNS = Domain Name System
 
 HTTP = Hypertext Transfer Protocol
 
+TLD = Top Level Domain
+
 Week 10 - Flask.
 --
 
