@@ -110,7 +110,9 @@ Week 9 - HTML, CSS, JavaScript.
 --
 
 IP = Internet Protocols 
+
 TCP = Transmission Control Protocol
+
 DNS = Domain Name System
 
 Week 10 - Flask.
