@@ -108,6 +108,7 @@ TSV = Tab Separated Value.
 
 Week 9 - HTML, CSS, JavaScript.
 --
+1. How the internet works? (first 50 mins)
 
 IP = Internet Protocols 
 
@@ -143,6 +144,9 @@ curl = connect URL
 
 503 Service Unavailable
 
+2. HTML
+
+   
 Week 10 - Flask.
 --
 
