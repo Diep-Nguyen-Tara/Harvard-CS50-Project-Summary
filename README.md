@@ -119,6 +119,8 @@ HTTP = Hypertext Transfer Protocol
 
 TLD = Top Level Domain
 
+curl = connect URL
+
 200 OK
 301 Moved Permanently
 302 Found
