@@ -144,8 +144,12 @@ curl = connect URL
 
 503 Service Unavailable
 
+
 **2. HTML**
 
+Tags
+
+Attributes
    
 Week 10 - Flask.
 --
