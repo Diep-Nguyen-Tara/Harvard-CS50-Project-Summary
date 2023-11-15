@@ -112,8 +112,6 @@ Week 9 - HTML, CSS, JavaScript.
 
 IP = Internet Protocols 
 
-IP = Internet Protocols
-
 TCP = Transmission Control Protocol
 
 TCP = Transmission Control Protocol
