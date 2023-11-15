@@ -115,6 +115,8 @@ TCP = Transmission Control Protocol
 
 DNS = Domain Name System
 
+HTTP = Hypertext Transfer Protocol
+
 Week 10 - Flask.
 --
 
