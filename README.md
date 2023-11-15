@@ -119,6 +119,18 @@ HTTP = Hypertext Transfer Protocol
 
 TLD = Top Level Domain
 
+200 OK
+301 Moved Permanently
+302 Found
+304 Not Modified
+307 Temporary Redirect
+401 Unauthorized
+403 Forbidden
+404 Not Found
+418 I'm a Teapot
+500 Internal Server Error
+503 Service Unavailable
+
 Week 10 - Flask.
 --
 
