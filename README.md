@@ -160,6 +160,8 @@ Tags:
 
 'tr' means Table Row
 
+'div' means Division of the page
+
 Attributes
 
 **3. CSS**
