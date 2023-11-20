@@ -150,7 +150,10 @@ curl = connect URL
 
 **2. HTML**
 
-Tags
+Tags:
+
+<ul> means Unordered List
+<ls> means List
 
 Attributes
    
