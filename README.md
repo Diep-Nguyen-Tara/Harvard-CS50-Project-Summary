@@ -99,9 +99,6 @@ CREATE TABLE stars (
 
 UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in the column).
 
-UPDATE favorites SET language = 'C' WHERE language ='C++';
-
-
 DELETE FROM favorites WHERE problem = 'Tideman';
 
 DELETE FROM favorites WHERE problem = 'Tideman';
