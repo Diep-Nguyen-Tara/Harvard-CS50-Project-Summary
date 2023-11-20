@@ -154,6 +154,8 @@ Tags:
 
 'ul' means Unordered List
 
+'ol' means Orders List
+
 'ls' means List
 
 Attributes
