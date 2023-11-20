@@ -119,6 +119,9 @@ TCP = Transmission Control Protocol
 
 DNS = Domain Name System
 
+DNS = Domain Name System
+
+
 HTTP = Hypertext Transfer Protocol
 
 TLD = Top Level Domain
