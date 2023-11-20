@@ -165,6 +165,8 @@ Attributes
 **3. CSS**
 
 CSS is not a programming language. It is a markup language to support the aesthetics of the page, things such as font size, colors, margin,...
+
+Properties
    
 Week 10 - Flask.
 --
