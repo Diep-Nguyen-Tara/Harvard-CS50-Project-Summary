@@ -158,6 +158,8 @@ Tags:
 
 'ls' means List
 
+'tr' means Table Row
+
 Attributes
    
 Week 10 - Flask.
