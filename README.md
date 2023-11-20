@@ -152,9 +152,9 @@ curl = connect URL
 
 Tags:
 
-<<ul>> means Unordered List
+'ul' means Unordered List
 
-<<ls>> means List
+'ls' means List
 
 Attributes
    
