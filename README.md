@@ -159,8 +159,6 @@ Tags:
 
 'div' means Division of the page
 
-'div' means Division of the page
-
 Attributes
 
 **3. CSS**
