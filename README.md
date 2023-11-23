@@ -153,7 +153,9 @@ Tags:
 
 'ul' means Unordered List
 
-'ol' means Orders List
+'ol' means Ordered List
+
+'ol' means Ordered List
 
 'ls' means List
 
