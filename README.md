@@ -104,7 +104,6 @@ UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in 
 
 DELETE FROM favorites WHERE problem = 'Tideman';
 
-
 CREATE INDEX title_index ON shows (title);
 
 IMDb = Internet Movie Database.
@@ -115,8 +114,6 @@ Week 9 - HTML, CSS, JavaScript.
 **1. How the internet works?** (first 50 mins)
 
 IP = Internet Protocols 
-
-IP = Internet Protocols
 
 TCP = Transmission Control Protocol
 
