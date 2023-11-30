@@ -104,6 +104,7 @@ DELETE FROM favorites WHERE problem = 'Tideman';
 CREATE INDEX title_index ON shows (title);
 
 IMDb = Internet Movie Database.
+
 TSV = Tab Separated Value.
 
 Week 9 - HTML, CSS, JavaScript.
@@ -115,6 +116,8 @@ IP = Internet Protocols
 TCP = Transmission Control Protocol
 
 DNS = Domain Name System
+
+HTTP = Hypertext Transfer Protocol
 
 HTTP = Hypertext Transfer Protocol
 
