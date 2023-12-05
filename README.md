@@ -87,10 +87,6 @@ SELECT * FROM students
 JOIN assignments ON students.id = assignments.student_id
 JOIN houses ON houses.id = assignments.house_id;
 
-SELECT * FROM students
-JOIN assignments ON students.id = assignments.student_id
-JOIN houses ON houses.id = assignments.house_id;
-
 CREATE TABLE movies (
                     id INTEGER,
                     title TEXT NOT NULL,
