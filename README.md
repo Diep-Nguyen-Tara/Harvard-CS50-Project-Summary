@@ -115,6 +115,8 @@ IP = Internet Protocols
 
 TCP = Transmission Control Protocol
 
+TCP = Transmission Control Protocol
+
 DNS = Domain Name System
 
 HTTP = Hypertext Transfer Protocol
