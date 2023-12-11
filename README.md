@@ -141,6 +141,8 @@ HTTP = Hypertext Transfer Protocol
 
 TLD = Top Level Domain
 
+TLD = Top Level Domain
+
 curl = connect URL
 
 200 OK
