@@ -246,6 +246,8 @@ Ctrl+C to interrupt computer
 
 PRIMARY KEY: is the unique identifier & the unique ID inside of the table.
 
+PRIMARY KEY: is the unique identifier & the unique ID inside of the table.
+
 FOREIGN KEY: is the reference to that primary key from another table, a separate table.
 
 Does FOREIGN KEY have to set the relationship? when you create the table, the programmer or the database administrator would create that relationship by using those keywords: primary key and foreign key that teaches the database what is related to what.
