@@ -67,6 +67,9 @@ Example of functions & queries:
 --
 SELECT * FROM favorites;  (to select all).
 
+SELECT * FROM favorites;  (to select all).
+
+
 SELECT * FROM people WHERE name LIKE 'Steve C%';
 
 SELECT * FROM people WHERE name LIKE 'Steve C%';
