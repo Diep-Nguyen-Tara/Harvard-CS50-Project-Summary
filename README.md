@@ -43,6 +43,8 @@ BLOB(Binary large objects)
 
 INTEGER
 
+INTERGER
+
 NUMERIC(YYYY-MM-DD)
 
 REAL(float, decimal point with some number of digits thereafter)
