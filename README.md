@@ -113,6 +113,10 @@ SELECT * FROM shows
 JOIN ratings ON shows.id = ratings.show_id 
 WHERE title = 'The Office';
 
+SELECT * FROM shows
+JOIN ratings ON shows.id = ratings.show_id
+WHERE title = 'The Office';
+
 SELECT * FROM shows 
 JOIN ratings ON shows.id = ratings.show_id
 WHERE title = 'The Office';
