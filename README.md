@@ -153,6 +153,8 @@ UPDATE favorites SET language = 'C' WHERE language ='C++';  (to replace data in 
 
 UPDATE favorites SET language = 'C' WHERE language = 'C++';
 
+UPDATE favorites SET language = 'C' WHERE language = 'C++';
+
 DELETE FROM favorites WHERE problem = 'Tideman';
 
 DELETE FROM favorites WHERE problem = 'Tideman';
