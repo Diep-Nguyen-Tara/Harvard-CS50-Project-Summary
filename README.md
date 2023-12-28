@@ -75,6 +75,8 @@ SELECT * FROM favorites;
 
 SELECT * FROM favorites;
 
+SELECT * FROM favorites;
+
 SELECT * FROM people WHERE name LIKE 'Steve C%';
 
 SELECT * FROM people WHERE name LIKE 'Steve C%';
