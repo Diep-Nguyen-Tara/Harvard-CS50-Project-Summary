@@ -31,8 +31,6 @@ Week 8 - SQL
 --
 Structured Query Language (Relational databases,...). Potential problems: race conditions, SQL injection attacks (little Bobby Tables).
 
-Structured Query Language
-
 SQL is a programming language whose purpose is to query a database.
 
 MySQL is one open-source platform on which you can establish the type of relational database that SQL is most adept at working with.
