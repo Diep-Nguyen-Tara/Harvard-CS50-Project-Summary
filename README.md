@@ -199,6 +199,12 @@ TSV = Tab Separated Value
 
 Week 9 - HTML, CSS, JavaScript.
 --
+HTML, or HyperText Markup Language, is used to describe the content of websites;
+
+CSS, Cascading Style Sheets, is used to describe the aesthetics of websites;
+
+JavaScript, is used to make websites interactive and dynamic.
+
 **1. How the internet works?** (first 50 mins)
 
 IP = Internet Protocols 
