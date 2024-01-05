@@ -263,6 +263,8 @@ DNS = Domain Name System
 
 DNS = Domain Name System
 
+DNS = Domain Name System
+
 HTTP = Hypertext Transfer Protocol
 
 HTTP = Hypertext Transfer Protocol
